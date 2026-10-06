@@ -47,19 +47,15 @@ Web application focused on geographic visualization and organization of missiona
 - Linux
 - Microsoft Excel
 
-## 📚 Currently Learning
+## 📚 Atualmente Estudando
 
-- Systems Analysis and Development
-- Software Development
-- IT Support
+- Análise e Desenvolvimento de Sistemas
+- Suporte de TI
 - Troubleshooting
-- Databases
-- Web Technologies
-
-## 🎯 Career Goal
-
-My goal is to start my professional career in IT, applying my experience with customer service, administrative processes, data organization and technology while continuously developing my technical skills.
-
+- Desenvolvimento de Software
+- Banco de Dados
+- Tecnologias Web
+- Git e GitHub
 ---
 
 **📍 Brasília, DF, Brazil**
